@@ -25,10 +25,10 @@ Environment:
 
 ### File Description
 
-models.resnet is the baseline network；
+models.net is the baseline network；
 
-models.dacd_resnet is the proposed DACDNet；
+models.ssm_net is the proposed DACDNet；
 
-models.utils_dacd is the necessary components of the DACDNet；
+models.utils_ssm is the necessary components of the DACDNet；
 
 all python files in utils is the components for training such as loss function, optimizer and etc
