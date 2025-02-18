@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ### Datasets
 ```
-WISDM, UniMiB, PAMAOP2
+WISDM, UniMiB, PAMAP2
 ```
 ### Environments
 
