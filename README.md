@@ -25,10 +25,7 @@ Environment:
 
 ### File Description
 
-models.net is the baseline network；
+model file is our models
 
-models.ssm_net is the proposed DACDNet；
-
-models.utils_ssm is the necessary components of the DACDNet；
 
 all python files in utils is the components for training such as loss function, optimizer and etc
