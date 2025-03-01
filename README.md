@@ -25,7 +25,7 @@ Environment:
 
 ### File Description
 
-model file is our models
+model file is our models, the code is coming.
 
 
 all python files in utils is the components for training such as loss function, optimizer and etc
